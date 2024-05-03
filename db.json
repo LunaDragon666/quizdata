@@ -1,0 +1,159 @@
+{
+    "quiz": [
+        {
+            "id": 1,
+            "theme": "Vinter Quiz",
+            "icon": "☃️",
+            "questions": [
+                {
+                    "question": "Hva slags farge har absint?",
+                    "alternativeA": "Gul",
+                    "alternativeB": "Blå",
+                    "alternativeC": "Brun",
+                    "alternativeD": "Grønn",
+                    "answer": 4
+                },
+                {
+                    "question": "På et tastatur, hvilken bokstav er mellom Q og E?",
+                    "alternativeA": "A",
+                    "alternativeB": "W",
+                    "alternativeC": "S",
+                    "alternativeD": "D",
+                    "answer": 2
+                },
+                {
+                    "question": "Hvem oppfant den elektriske lyspæren?",
+                    "alternativeA": "Thomas Edison",
+                    "alternativeB": "Humphry Davy",
+                    "alternativeC": "Isaac Newton",
+                    "alternativeD": "Charles Darwin",
+                    "answer": 1
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "theme": "Påske Quiz",
+            "icon": "🐣",
+            "questions": [
+                {
+                    "question": "Hva slags farge har absint?",
+                    "alternativeA": "Gul",
+                    "alternativeB": "Blå",
+                    "alternativeC": "Brun",
+                    "alternativeD": "Grønn",
+                    "answer": 4
+                },
+                {
+                    "question": "På et tastatur, hvilken bokstav er mellom Q og E?",
+                    "alternativeA": "A",
+                    "alternativeB": "W",
+                    "alternativeC": "S",
+                    "alternativeD": "D",
+                    "answer": 2
+                },
+                {
+                    "question": "Hvem oppfant den elektriske lyspæren?",
+                    "alternativeA": "Thomas Edison",
+                    "alternativeB": "Humphry Davy",
+                    "alternativeC": "Isaac Newton",
+                    "alternativeD": "Charles Darwin",
+                    "answer": 1
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "theme": "Sommer Quiz",
+            "icon": "🏖️",
+            "questions": [
+                {
+                    "question": "Hva slags farge har absint?",
+                    "alternativeA": "Gul",
+                    "alternativeB": "Blå",
+                    "alternativeC": "Brun",
+                    "alternativeD": "Grønn",
+                    "answer": 4
+                },
+                {
+                    "question": "På et tastatur, hvilken bokstav er mellom Q og E?",
+                    "alternativeA": "A",
+                    "alternativeB": "W",
+                    "alternativeC": "S",
+                    "alternativeD": "D",
+                    "answer": 2
+                },
+                {
+                    "question": "Hvem oppfant den elektriske lyspæren?",
+                    "alternativeA": "Thomas Edison",
+                    "alternativeB": "Humphry Davy",
+                    "alternativeC": "Isaac Newton",
+                    "alternativeD": "Charles Darwin",
+                    "answer": 1
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "theme": "Høst Quiz",
+            "icon": "🍁",
+            "questions": [
+                {
+                    "question": "Hva slags farge har absint?",
+                    "alternativeA": "Gul",
+                    "alternativeB": "Blå",
+                    "alternativeC": "Brun",
+                    "alternativeD": "Grønn",
+                    "answer": 4
+                },
+                {
+                    "question": "På et tastatur, hvilken bokstav er mellom Q og E?",
+                    "alternativeA": "A",
+                    "alternativeB": "W",
+                    "alternativeC": "S",
+                    "alternativeD": "D",
+                    "answer": 2
+                },
+                {
+                    "question": "Hvem oppfant den elektriske lyspæren?",
+                    "alternativeA": "Thomas Edison",
+                    "alternativeB": "Humphry Davy",
+                    "alternativeC": "Isaac Newton",
+                    "alternativeD": "Charles Darwin",
+                    "answer": 1
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "theme": "Jule Quiz",
+            "icon": "🎄",
+            "questions": [
+                {
+                    "question": "Hva slags farge har absint?",
+                    "alternativeA": "Gul",
+                    "alternativeB": "Blå",
+                    "alternativeC": "Brun",
+                    "alternativeD": "Grønn",
+                    "answer": 4
+                },
+                {
+                    "question": "På et tastatur, hvilken bokstav er mellom Q og E?",
+                    "alternativeA": "A",
+                    "alternativeB": "W",
+                    "alternativeC": "S",
+                    "alternativeD": "D",
+                    "answer": 2
+                },
+                {
+                    "question": "Hvem oppfant den elektriske lyspæren?",
+                    "alternativeA": "Thomas Edison",
+                    "alternativeB": "Humphry Davy",
+                    "alternativeC": "Isaac Newton",
+                    "alternativeD": "Charles Darwin",
+                    "answer": 1
+                }
+            ]
+        }
+    ]
+}
